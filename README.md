@@ -123,7 +123,7 @@ Clone the Repository
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/financial-project-automation.git
+(https://github.com/27tanu/Financial-Analysis-Using-PowerBI/tree/main)
 Set Up Dependencies
 
 Python 3.x
